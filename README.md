@@ -27,7 +27,7 @@ Estudiante de ASIR, poco más que añadir
 
 
 ## Contacto
-- 📧 Email: andressg_95@hotmail.com
+- 📧 Email: se pregunta
 
 
  ![GcseComputerGIF](https://github.com/user-attachments/assets/92e47fab-260d-4ade-b18c-34eee2f11a2b)
