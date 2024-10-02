@@ -1,8 +1,8 @@
-# ¡Bueno bonito y barato, soy Andrés!
+# Muy buenas 👍
 
 
-##    _                  _             
-##    / \     _  __    __| |  _  __   ___     ______
+#     _                  _             
+#    / \     _  __    __| |  _  __   ___     ______
 #   / _ \   | '_  \  /  _`| | '__| /  _  \ /   ___/
 #  / ___ \  | | | | / (_| | |  |   |   __/ \___  \ 
 # /_/   \_\ |_| |_| \__ ,_| |_ |    \___|  /____  >
@@ -26,13 +26,6 @@ Estudiante de ASIR, poco más que añadir
 
 
 ## Contacto
-- 📧 Email: [tu email]
-- 💼 LinkedIn: [tu perfil de LinkedIn]
-- 🌐 Sitio web: [tu sitio web]
+- 📧 Email: andressg_95@hotmail.com
 
-## Estadísticas de GitHub
-!Estadísticas de GitHub
-
-## Lenguajes más usados
-!Lenguajes más usados
 
