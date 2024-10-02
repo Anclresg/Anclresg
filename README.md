@@ -1,16 +1,38 @@
-## Hi there 👋
+# ¡Bueno bonito y barato, soy Andrés!
 
-<!--
-**Anclresg/Anclresg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    _                  _             
+   / \     _  __    __| |  _  __   ___     ______
+  / _ \   | '_  \  /  _`| | '__| /  _  \ /   ___/
+ / ___ \  | | | | / (_| | |  |   |   __/ \___  \ 
+/_/   \_\ |_| |_| \__ ,_| |_ |    \___|  /____  >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+
+
+
+
+## Sobre mí
+Estudiante de ASIR, poco más que añadir
+
+## Habilidades
+- Se barrer
+- Limpiar piscinas
+- Usar maquinas de limpieza
+- Algo de informática
+
+
+
+## Contacto
+- 📧 Email: [tu email]
+- 💼 LinkedIn: [tu perfil de LinkedIn]
+- 🌐 Sitio web: [tu sitio web]
+
+## Estadísticas de GitHub
+!Estadísticas de GitHub
+
+## Lenguajes más usados
+!Lenguajes más usados
+
